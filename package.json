@@ -1,0 +1,23 @@
+{
+  "name": "hello_react_rails_backend",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Microverse-blueviolet)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keza681/hello_react_rails_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keza681/hello_react_rails_backend/issues"
+  },
+  "homepage": "https://github.com/keza681/hello_react_rails_backend#readme"
+}
